@@ -1,6 +1,5 @@
 # SocketsThreeJsTemplate
-server uses expres along with socket.io
-to run
+server uses express along with socket.io
   1. npm i
   2. npm run develop
   
